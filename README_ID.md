@@ -4,7 +4,7 @@ Aplikasi Stock Manager adalah sebuah aplikasi untuk mengelola stok barang. Aplik
 
 ## Cara Penggunaan
 
-1. Pastikan Anda telah mengisi informasi koneksi database di file `database.php`.
+1. Pastikan Anda telah mengisi informasi koneksi database di file `database.php` dan `generate_tabel_barang_user.php`.
 
 2. Jalankan File generate_tabel_barang_user.php
 
