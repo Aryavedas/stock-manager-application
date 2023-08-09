@@ -4,9 +4,9 @@ The Stock Manager Application is an application for managing stock of goods. Thi
 
 ## How to Use
 
-1. Make sure you have filled in the database connection information in the `database.php` file.
+1. Make sure you have filled in the database connection information in the `database.php` and `generate_tabel_barang_user.php` file.
 
-2. Run generate_tabel_barang_user.php
+2. Run `generate_tabel_barang_user.php`
 
 3. Run the application on your web server.
 
